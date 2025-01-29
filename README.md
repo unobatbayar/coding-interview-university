@@ -1992,6 +1992,7 @@ Sit back and enjoy.
 ## Papers
 
 - [Love classic papers?](https://www.cs.cmu.edu/~crary/819-f09/)
+- [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
 - 1936: On Computable Numbers, with an Application to the Entscheidungsproblem 
     -[paper](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
     -[wiki](https://en.wikipedia.org/wiki/Turing%27s_proof)
